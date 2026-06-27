@@ -1,0 +1,55 @@
+body{
+  padding-top:50px;
+  padding-bottom:50px;
+  background-color:burlywood;
+  margin-top:0;
+  margin-bottom:0;
+  margin-right:auto;
+  margin-left:auto;
+  width:100vw;
+  min-height:calc(100vh - 100px);
+}
+
+h1{
+  text-align:center;
+  font-family:algerian;
+
+
+}
+img{
+  display:block;
+  margin:0 auto;
+  width:30em;
+  border:double 5px brown;
+  border-radius:10px;
+}
+hr{
+  width:90%;
+  border:none;
+  height:3px;
+  background-color:brown;
+}
+section{
+  width:80%;
+  font-family:arial;
+  margin:auto;
+  font-size:16px;
+}
+.shake{
+  width:80px;
+  height:80px;
+  border:dotted 5px green;
+  list-style-position:left;
+}
+.pizza{
+  width:80px;
+  height:80px;
+  border:dotted 5px green;
+  list-style-position:left;
+}
+.dish{
+  width:80px;
+  height:80px;
+  border:dotted 5px green;
+  list-style-position:left;
+}
